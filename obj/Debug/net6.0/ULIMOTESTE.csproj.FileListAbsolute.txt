@@ -1,0 +1,15 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\bin\Debug\net6.0\ULIMOTESTE.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\bin\Debug\net6.0\ULIMOTESTE.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\bin\Debug\net6.0\ULIMOTESTE.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\bin\Debug\net6.0\ULIMOTESTE.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\bin\Debug\net6.0\ref\ULIMOTESTE.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\bin\Debug\net6.0\ULIMOTESTE.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ref\ULIMOTESTE.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\ULIMOTESTE\obj\Debug\net6.0\ULIMOTESTE.genruntimeconfig.cache
